@@ -20,19 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# SAPo viajando para a Lua, anailisando dados
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Solictei ao criação de uma imagem de um Sapo em uma espaçonave viajando para a Lua e analisando dados em um monitor.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
+DALL-E
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompts:
+Create a image with a frog in a spaceship travelling to the moon and analyzing a lot of data in a monitor
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foram geradas 4 imagens que representam bem o o que foi soslicitado no prompt.
+![_9f8992fd-19bb-412c-86ba-d66659e8c9be](https://github.com/Evandrodz/lab-natty-or-not/assets/44706055/77f2ad4f-e905-490e-86e2-d8f0d21dc6ea)
+![_15f43761-2982-4ff3-bd6d-43e27e3ed831](https://github.com/Evandrodz/lab-natty-or-not/assets/44706055/77b83a66-3045-468e-8e37-583d1700922a)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
